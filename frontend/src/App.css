@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px;
+}
+
+.login {
+  padding: 18px 48px 16px;
+  height: 6em;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #1db954;
+  font-weight: 700;
+  border-radius: 500px;
+  border: none;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 1;
+  display: inline-block;
+  cursor: pointer;
+  outline: none;
+}
